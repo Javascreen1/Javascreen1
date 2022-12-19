@@ -1,1 +1,2 @@
-A Doctoral Researcher- Mathematical Modelling and Epidemiology ll Digital Assets Trading and Consultancy || Data Analysis || Data Science
+A certified Data Scientist with a core background in mathematics with 7 years of experience formulating and analyzing deterministic models, self-motivated and passionate about drawing insights from data to provide data-driven solutions to business problems. Exploring machine learning algorithms to build models and analyze chunks of data from different projects and case studies
+Also published some works on mathematica modeling of disease epidemiology 
